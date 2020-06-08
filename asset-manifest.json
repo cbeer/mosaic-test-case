@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosaic-test-case/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mosaic-test-case/static/js/main.85629635.chunk.js",
+    "main.js.map": "/mosaic-test-case/static/js/main.85629635.chunk.js.map",
+    "runtime-main.js": "/mosaic-test-case/static/js/runtime-main.ccf9905f.js",
+    "runtime-main.js.map": "/mosaic-test-case/static/js/runtime-main.ccf9905f.js.map",
+    "static/js/2.12bc23b9.chunk.js": "/mosaic-test-case/static/js/2.12bc23b9.chunk.js",
+    "static/js/2.12bc23b9.chunk.js.map": "/mosaic-test-case/static/js/2.12bc23b9.chunk.js.map",
+    "index.html": "/mosaic-test-case/index.html",
+    "precache-manifest.6dee1078c2a090d4f0a7661de803ebf7.js": "/mosaic-test-case/precache-manifest.6dee1078c2a090d4f0a7661de803ebf7.js",
+    "service-worker.js": "/mosaic-test-case/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mosaic-test-case/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.12bc23b9.chunk.js.LICENSE.txt": "/mosaic-test-case/static/js/2.12bc23b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccf9905f.js",
+    "static/js/2.12bc23b9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.85629635.chunk.js"
+  ]
+}
